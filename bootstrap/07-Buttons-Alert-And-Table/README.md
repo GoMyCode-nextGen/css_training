@@ -16,7 +16,7 @@ It's not only aesthetics, each style is meant to serve a specific purpose in you
 - A table.
 - And of course, rows and cols for the layout.
 
-![Example Image](../../.learn/assets/07-buttons-alert-and-table-result.png?raw=true)
+![Example Image](../.learn/assets/07-buttons-alert-and-table-result.png?raw=true)
 
 ## 💡 Hint:
 

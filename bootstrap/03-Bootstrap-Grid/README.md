@@ -39,4 +39,4 @@ In Bootstrap 5, the `justify-content` property is added to the classes to move t
 
 ## 💻 Expected result:
 
-![Example Image](../../.learn/assets/03-bootstrap-grid-result.png?raw=true)
+![Example Image](../.learn/assets/03-bootstrap-grid-result.png?raw=true)

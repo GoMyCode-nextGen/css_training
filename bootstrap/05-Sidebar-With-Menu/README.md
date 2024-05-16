@@ -4,7 +4,7 @@
 
 1. Replicate this exact design:
 
-![Example Image](../../.learn/assets/05-sidebar-with-menu-result.png?raw=true)
+![Example Image](../.learn/assets/05-sidebar-with-menu-result.png?raw=true)
 
 2. The first column should be a `col-2` and the second one should be `col-10`.
 

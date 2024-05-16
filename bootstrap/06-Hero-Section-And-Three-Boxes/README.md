@@ -4,7 +4,7 @@
 
 1. Recreate this exact HTML using Bootstrap (you don't need any CSS at all):
 
-![Example Image](../../.learn/assets/06-hero-section-and-three-boxes-result.png?raw=true)
+![Example Image](../.learn/assets/06-hero-section-and-three-boxes-result.png?raw=true)
 
 ## 💡 Hint:
 
